@@ -2,6 +2,11 @@
 
     This application demonstrates how to use redis cache in spring boot
 
+To Pull and Run Redis:
+   
+    docker pull redis
+    docker run -d -p 6379:6379 --name my-redis redis
+
 To Build Image:
 
     mvn clean spring-boot:build-image
