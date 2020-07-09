@@ -17,4 +17,4 @@ To Run Container:
     
 To Test:
 
-   Import the [test json collection file](springboot_redis_tutorial_postman_collection.json) to postman app
+   Import the [test json collection file](src/test/data/springboot_redis_tutorial_postman_collection.json) to postman app
